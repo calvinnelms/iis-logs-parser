@@ -1,0 +1,10 @@
+C:\Angular\iis-logs-parser\obj\Debug\netcoreapp2.0\iis-logs-parser.csproj.CoreCompileInputs.cache
+C:\Angular\iis-logs-parser\obj\Debug\netcoreapp2.0\iis-logs-parser.AssemblyInfoInputs.cache
+C:\Angular\iis-logs-parser\obj\Debug\netcoreapp2.0\iis-logs-parser.AssemblyInfo.cs
+C:\Angular\iis-logs-parser\bin\Debug\netcoreapp2.0\iis-logs-parser.deps.json
+C:\Angular\iis-logs-parser\bin\Debug\netcoreapp2.0\iis-logs-parser.runtimeconfig.json
+C:\Angular\iis-logs-parser\bin\Debug\netcoreapp2.0\iis-logs-parser.runtimeconfig.dev.json
+C:\Angular\iis-logs-parser\bin\Debug\netcoreapp2.0\iis-logs-parser.dll
+C:\Angular\iis-logs-parser\bin\Debug\netcoreapp2.0\iis-logs-parser.pdb
+C:\Angular\iis-logs-parser\obj\Debug\netcoreapp2.0\iis-logs-parser.dll
+C:\Angular\iis-logs-parser\obj\Debug\netcoreapp2.0\iis-logs-parser.pdb
